@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **thvw99@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/tvanwagener99/tvanwagener99/blob/main/Tyler%20Van%20Wagener%20Resume%202025.pdf](https://github.com/tvanwagener99/tvanwagener99/blob/main/Tyler%20Van%20Wagener%20Resume%202025.pdf)
+- 📄 Know about my experiences [Resume](https://github.com/tvanwagener99/tvanwagener99/blob/main/Tyler%20Van%20Wagener%20Resume%202025.pdf)
 
 - ⚡ Fun fact **Me, my wife, and my dog share a single brain cell**
 
