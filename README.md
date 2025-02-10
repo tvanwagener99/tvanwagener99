@@ -19,6 +19,8 @@
 
 **Python**
 - [Web Scraper](https://github.com/tvanwagener99/-Python-Web-Scraper)
+- [Anime Reminders](https://github.com/tvanwagener99/Anime-Reminders)
+   
 
 **Javascript**
 - [Discord AI Adventure Bot](https://github.com/tvanwagener99/Discord-AdvAI)
